@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Mateusz Kuzak. I develop research software. I'm Software and Data Carpentry evangelist and I care about quality of the software used in science. I work a lot with javascript and data visualization. I used to work with microscopes, looking at living cells analyzing images. Now working at Netherlands eScience Center with researchers from all domains of science. I think a lot about how we should write our scientific software and test my ideas in the wild.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The views expressed on these pages are mine alone and not those of my employer.
