@@ -1,12 +1,17 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Hello. I'm Mateusz
+email: mateusz.kuzak@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I write software together with researchers to move science forward.
+  I'm Sotware Carpentry, Data Carpentry evangelist and I care about qulity of
+  resarch software.
+  Currently eScience Reasearch Engineer at Netherlands
+  eScience Center, based in Amsterdam, the Netherlands.
+
+  Disclaimer: The views expressed here are mine and do not necessary represent or reflect
+  views of Netherlands eScience Center.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://http://mkuzak.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
