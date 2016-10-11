@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Learning works part 1."
-date:   2016-10-09 16:53:52 +0200
+date:   2016-10-11 13:42:00 +0200
 categories: teaching SoftwareCarpentry
 ---
 This is first part of 7 part series discussing ideas presented in
