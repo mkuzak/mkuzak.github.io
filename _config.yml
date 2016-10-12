@@ -26,3 +26,7 @@ github_username:  mkuzak
 # Build settings
 markdown: kramdown
 theme: minima
+
+# disqus
+disqus:
+  shortname: mkuzak-gh-blog
