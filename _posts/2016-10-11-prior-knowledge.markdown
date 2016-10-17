@@ -77,7 +77,7 @@ lesson when students come up with different problems with
 spreadsheets by themselves and the result of this is the great start
 for the discussion.
 
-** Look for Patterns of Error in Students Work.** Paying attention to
+**Look for Patterns of Error in Students Work.** Paying attention to
 what kind of mistakes learners make in exercises will help you grasp
 better the state of understanding.
 
