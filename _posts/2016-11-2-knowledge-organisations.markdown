@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Learning works part 2."
+title:  "How Learning works part 2. Knowledge Organisations"
 date:   2016-11-2 13:39:00 +0200
 categories: teaching SoftwareCarpentry
 ---

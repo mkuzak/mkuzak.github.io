@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Learning works part 1."
+title:  "How Learning works part 1. Prior Knowledge"
 date:   2016-10-11 13:42:00 +0200
 categories: teaching SoftwareCarpentry
 ---
